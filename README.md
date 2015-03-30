@@ -1,4 +1,7 @@
 # Erik's Sublime Configuration
+
+![Screenshot](http://i.imgur.com/8kZAfRQ.png)
+
 This is entire contents of my [Sublime Text 3](http://www.sublimetext.com) User directory, containing my Sublime Text 3 settings as well as my user settings for the different packages I have installed.
 
 This is an accumulation of probably 2-3 years of configuring Sublime Text just how I like it. The result is, in my opinion, the most beautiful and productive editor that I can possibly imagine.
@@ -28,4 +31,4 @@ To enable the theme I'm using, go to *Sublime Text → Preferences → Color Sch
 You're all set!
 
 ## More Resources
-You won't be getting the maximum out of Sublime Text until you truly learn and master its bag of tricks. Jeffrey Way has an excellent video series, [Perfect Workflow in Sublime Text 2](https://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2) that I highly recommend to get up to speed with Sublime Text quickly.
+You won't be getting the maximum out of Sublime Text until you truly learn and master its bag of tricks. Jeffrey Way has an excellent video series, [Perfect Workflow in Sublime Text 2](https://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2), that I highly recommend to get up to speed with Sublime Text quickly.
