@@ -1,6 +1,6 @@
 # Erik's Sublime Configuration
 
-![Screenshot](http://i.imgur.com/8kZAfRQ.png)
+![Screenshot](http://i.imgur.com/hhBihmD.png)
 
 This is entire contents of my [Sublime Text 3](http://www.sublimetext.com) User directory, containing my Sublime Text 3 settings as well as my user settings for the different packages I have installed.
 
