@@ -1,0 +1,27 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Craft-Twig",
+		"DocBlockr",
+		"Emmet",
+		"FileDiffs",
+		"FindKeyConflicts",
+		"Gist",
+		"Git",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"MacTerminal",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Open Finder",
+		"Package Control",
+		"Sass",
+		"SFTP",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"Theme - Soda"
+	]
+}

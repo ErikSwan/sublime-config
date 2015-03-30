@@ -1,0 +1,7 @@
+{
+	"disabled_keymap_actions": [
+		"reflect_css_value",
+		"decrement_number_by_10",
+		"increment_number_by_10"
+	]
+}

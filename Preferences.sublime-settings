@@ -1,0 +1,26 @@
+{
+	"auto_complete_commit_on_tab": false,
+	"color_scheme": "Packages/User/Monokai Soda.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"font_size": 12,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Markdown"
+	],
+	"open_files_in_new_window": false,
+	"remember_open_files": false,
+	"rulers":
+	[
+		80
+	],
+	"show_encoding": true,
+	"theme": "Soda Dark 3.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"vintage_start_in_command_mode": true,
+	"vintage_use_clipboard": true,
+	"word_wrap": true
+}
