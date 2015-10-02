@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -12,6 +13,7 @@
 		"Gist",
 		"Git",
 		"GitGutter",
+		"HexViewer",
 		"HTML-CSS-JS Prettify",
 		"MacTerminal",
 		"Markdown Preview",
@@ -21,7 +23,9 @@
 		"Sass",
 		"SFTP",
 		"SublimeLinter",
+		"SublimeLinter-annotations",
 		"SublimeLinter-jshint",
+		"SystemVerilog",
 		"Theme - Soda"
 	]
 }
