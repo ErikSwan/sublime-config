@@ -2,7 +2,6 @@
 	"auto_complete_commit_on_tab": false,
 	"color_scheme": "Packages/User/Monokai Soda.tmTheme",
 	"ensure_newline_at_eof_on_save": true,
-	"font_size": 12,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"hot_exit": false,
