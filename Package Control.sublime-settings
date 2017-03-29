@@ -15,7 +15,7 @@
 		"GitGutter",
 		"HexViewer",
 		"HTML-CSS-JS Prettify",
-		"MacTerminal",
+		"LaTeXTools",
 		"Markdown Preview",
 		"MarkdownEditing",
 		"Open Finder",
@@ -26,6 +26,7 @@
 		"SublimeLinter-annotations",
 		"SublimeLinter-jshint",
 		"SystemVerilog",
+		"termX",
 		"Theme - Soda"
 	]
 }
